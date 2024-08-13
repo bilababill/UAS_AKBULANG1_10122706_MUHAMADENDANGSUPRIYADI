@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTSAKB_DEZAN</string>
+    <string name="title_home">Home</string>
+    <string name="title_daily">Daily</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_media">Media</string>
+    <string name="title_profile">Profile</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="profile_description">This is a brief description about yourself.</string>
+</resources>
